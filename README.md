@@ -1,18 +1,22 @@
-# Olá, eu sou o Gabriel Sales! 👋
+# Olá, eu sou o Gabriel Sales! 👋 
 
-### 🚀 Apaixonado por transformar café em código e hardware em soluções inteligentes.
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Tech GIF">
+</p>
 
-[cite_start]Sou graduando em **Ciência da Computação na UFPB** [cite: 9] [cite_start]e Técnico em Informática pelo **IFPB**[cite: 10, 11]. Atualmente, foco no desenvolvimento Full-Stack e em projetos de IoT, unindo a precisão do software com a versatilidade do hardware.
+### 🚀 Desenvolvedor Full-Stack | Entusiasta de IoT | Maker
+
+[cite_start]Atualmente sou graduando em **Ciência da Computação na UFPB** (4º período) [cite: 9] [cite_start]e possuo formação técnica pelo **IFPB**[cite: 10, 11]. [cite_start]Meu foco é construir pontes entre o mundo físico (Hardware) e o digital (Software)[cite: 7].
 
 ---
 
-## 🛠️ No que eu trabalho:
+## 🛠️ Especialidades:
 
-- [cite_start]**Back-end:** Desenvolvimento de APIs RESTful robustas utilizando Java e Spring Boot[cite: 13].
-- [cite_start]**Frontend:** Criação de interfaces web responsivas e intuitivas com HTML e CSS[cite: 19].
-- [cite_start]**Qualidade & Testes:** Foco em testes unitários (JUnit/Mockito) para garantir que o código não quebre no deploy[cite: 14, 22].
-- **IoT & Hardware:** Experiência prática com Arduino, ESP8266 e integração de sensores.
-- [cite_start]**DevOps & Infra:** Uso diário de Linux [cite: 20][cite_start], Docker para containerização e versionamento com Git[cite: 15].
+* [cite_start]**Backend & APIs:** Especialista em APIs RESTful com **Java** e **Spring Boot**[cite: 13].
+* [cite_start]**DevOps & Infra:** Experiência com **Docker**, ambiente **Linux** e versionamento com **Git**[cite: 15, 20].
+* **Hardware & IoT:** Criação de projetos utilizando **Arduino**, **ESP8266** e sensores inteligentes.
+* [cite_start]**Qualidade:** Foco em testes unitários com **JUnit** e **Mockito**[cite: 14, 22].
+* [cite_start]**Dados:** Manipulação de bancos **SQL** (MySQL, Postgres) e **NoSQL** (MongoDB)[cite: 16, 17].
 
 ---
 
@@ -23,33 +27,28 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Banco de Dados & Ferramentas
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### Infra, DB & IoT
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📊 Estatísticas do GitHub
-
+## 📊 My GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
 
 ---
 
-## 📫 Vamos nos conectar?
-
-- [cite_start]**Localização:** João Pessoa - PB 📍 [cite: 5]
-- [cite_start]**Email:** [gabriel.sales@dcx.ufpb.br](mailto:gabriel.sales@dcx.ufpb.br) 📧 [cite: 4]
-- **LinkedIn:** [Link para seu perfil aqui] 🔗
+## 📫 Contato:
+* [cite_start]**Cidade:** João Pessoa - PB [cite: 5]
+* [cite_start]**Email:** [gabriel.sales@dcx.ufpb.br](mailto:gabriel.sales@dcx.ufpb.br) [cite: 4]
+* **LinkedIn:** [Seu Link Aqui]
 
 ---
-[cite_start]*“Sempre em busca de aprender algo novo e documentar o processo.”* [cite: 7, 21]
+[cite_start]*“Sempre em busca de estágio na área de tecnologia, focado em aprendizado e melhoria contínua.”* [cite: 7]
