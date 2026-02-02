@@ -1,54 +1,103 @@
-# Olá, eu sou o Gabriel Sales! 👋 
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Tech GIF">
-</p>
+# ⚡ Gabriel Sales ⚡
+### *Architecting Software & Hacking Hardware*
 
-### 🚀 Desenvolvedor Full-Stack | Entusiasta de IoT | Maker
+</div>
 
-[cite_start]Atualmente sou graduando em **Ciência da Computação na UFPB** (4º período) [cite: 9] [cite_start]e possuo formação técnica pelo **IFPB**[cite: 10, 11]. [cite_start]Meu foco é construir pontes entre o mundo físico (Hardware) e o digital (Software)[cite: 7].
+<br />
+
+<table>
+<tr>
+<td width="60%">
+
+## 👨‍💻 Sobre mim
+
+Sou **Gabriel Sales**, um desenvolvedor movido pela curiosidade de saber como as coisas funcionam por baixo do capô.
+
+[cite_start]🎓 **Acadêmico:** Graduando em Ciência da Computação na **UFPB** [cite: 9] [cite_start]e Técnico em Informática pelo **IFPB**[cite: 10, 11].
+
+🚀 **O que eu faço:** Crio ecossistemas completos. Desde o **Back-end robusto** com Java até a ponta física com **IoT e sensores**. Tenho experiência sólida em arquitetar APIs RESTful e garantir que o software seja escalável e testável.
+
+[cite_start]📍 **Base:** João Pessoa - PB [cite: 5]
+
+</td>
+<td width="40%">
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iNOewWfAhO1Aw/giphy.gif" width="100%" alt="Coding GIF"/>
+</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Especialidades:
+## 🚀 Módulos de Especialidade
 
-* [cite_start]**Backend & APIs:** Especialista em APIs RESTful com **Java** e **Spring Boot**[cite: 13].
-* [cite_start]**DevOps & Infra:** Experiência com **Docker**, ambiente **Linux** e versionamento com **Git**[cite: 15, 20].
-* **Hardware & IoT:** Criação de projetos utilizando **Arduino**, **ESP8266** e sensores inteligentes.
-* [cite_start]**Qualidade:** Foco em testes unitários com **JUnit** e **Mockito**[cite: 14, 22].
-* [cite_start]**Dados:** Manipulação de bancos **SQL** (MySQL, Postgres) e **NoSQL** (MongoDB)[cite: 16, 17].
+Aqui é onde a mágica acontece. Eu opero em três frentes principais:
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🧠 <br>Backend Engineering</h3>
+      <p>Desenvolvimento de lógicas complexas e APIs seguras.</p>
+      <code>Java & Spring Boot</code><br>
+      <code>RESTful APIs</code><br>
+      <code>Microservices</code>
+    </td>
+    <td align="center" width="33%">
+      <h3>🔌 <br>IoT & Hardware</h3>
+      <p>Conectando o mundo físico ao digital.</p>
+      <code>Arduino & ESP8266</code><br>
+      <code>C++ Embedded</code><br>
+      <code>Automação</code>
+    </td>
+    <td align="center" width="33%">
+      <h3>🐳 <br>DevOps & Quality</h3>
+      <p>Garantia de que "na minha máquina funciona" funcione na nuvem.</p>
+      <code>Docker</code><br>
+      <code>JUnit & Mockito</code><br>
+      <code>Linux Env</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💻 Tech Stack:
+## 🛠️ Arsenal Tecnológico (Tech Stack)
 
-### Linguagens e Frameworks
+### 💻 Linguagens & Frameworks
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### Infra, DB & IoT
+### ⚙️ Infra, Banco de Dados & Hardware
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📊 My GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</p>
+## ⚡ GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=6&theme=radical"/>
+</div>
 
 ---
 
-## 📫 Contato:
-* [cite_start]**Cidade:** João Pessoa - PB [cite: 5]
-* [cite_start]**Email:** [gabriel.sales@dcx.ufpb.br](mailto:gabriel.sales@dcx.ufpb.br) [cite: 4]
-* **LinkedIn:** [Seu Link Aqui]
+<div align="center">
+  
+### 📫 Vamos construir algo juntos?
+  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.sales@dcx.ufpb.br)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
 
----
-[cite_start]*“Sempre em busca de estágio na área de tecnologia, focado em aprendizado e melhoria contínua.”* [cite: 7]
+[cite_start]**[gabriel.sales@dcx.ufpb.br]** [cite: 4]
+  
+</div>
