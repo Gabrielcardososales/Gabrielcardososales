@@ -30,14 +30,7 @@ gabriel@ufpb:~$ ./whoami.sh
 gabriel@ufpb:~$ █
  ```
 
-</td>
-<td width="40%">
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iNOewWfAhO1Aw/giphy.gif" width="100%" alt="Coding GIF"/>
-</div>
-</td>
-</tr>
-</table>
+</td> <td width="40%"> <div align="center"> <img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Tech GIF"/> </div> </td> </tr> </table>
 
 ---
 
