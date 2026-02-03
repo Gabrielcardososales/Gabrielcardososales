@@ -22,7 +22,7 @@ Faço a ponte entre software escalável e soluções embarcadas: APIs robustas, 
 </td>
 <td width="40%">
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iNOewWfAhO1Aw/giphy.gif" width="100%" alt="Coding GIF"/>
+  <img src="https://media.tenor.com/Pao5mBkmLroAAAAj/pengu-pudgy.gif" width="100%" alt="Coding GIF"/>
 </div>
 </td>
 </tr>
