@@ -1,89 +1,90 @@
 <div align="center">
 
-# ⚡ Gabriel Sales ⚡  
-### *Architecting Software & Hacking Hardware*
+<h1>⚡ Gabriel Sales ⚡</h1>
+<p><em>Architecting Software & Hacking Hardware</em></p>
 
 </div>
 
 <br />
 
 <table>
-<tr>
-<td width="60%" style="padding: 24px; vertical-align: top;">
+<tr valign="top">
+<td width="62%" style="padding: 28px;">
+
 <h2>👨‍💻 Sobre mim</h2>
 
-Sou **Gabriel Sales**, desenvolvedor curioso sobre como as coisas funcionam por baixo do capô.  
-Graduando em **Ciência da Computação — UFPB** e **Técnico em Informática — IFPB**.  
-Faço a ponte entre software escalável e soluções embarcadas: APIs robustas, testes consistentes e projetos de IoT que entregam valor real.
+Sou <strong>Gabriel Sales</strong>, desenvolvedor movido pela curiosidade de entender como as coisas funcionam por baixo do capô.<br><br>
+Graduando em <strong>Ciência da Computação — UFPB</strong> e <strong>Técnico em Informática — IFPB</strong>.<br><br>
+Atuo na interseção entre <strong>software escalável</strong> e <strong>sistemas embarcados</strong>, desenvolvendo APIs robustas, testes consistentes e projetos de IoT que entregam valor real — do backend à ponta física.
 
 </td>
-<td width="27%">
-<div align="center">
-  <img src="https://media.tenor.com/Pao5mBkmLroAAAAj/pengu-pudgy.gif" width="100%" alt="Coding GIF"/>
-</div>
+
+<td width="30%" style="padding: 16px;">
+  <div align="center">
+    <img src="https://media.tenor.com/Pao5mBkmLroAAAAj/pengu-pudgy.gif" width="90%" alt="Coding GIF"/>
+  </div>
 </td>
 </tr>
 </table>
 
----
+<hr />
 
-## 🚀 Áreas de Atuação
+<h2>🚀 Áreas de Atuação</h2>
 
 <table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🧠 Backend Engineering</h3>
-      <p>Arquitetura e implementação de APIs e serviços confiáveis.</p>
-      <code>Java • Spring Boot</code><br>
-      <code>RESTful APIs • Design orientado a testes</code>
-    </td>
-    <td align="center" width="33%">
-      <h3>🔌 IoT & Embedded</h3>
-      <p>Do protótipo ao produto: integração de sensores e conectividade.</p>
-      <code>Arduino • ESP8266</code><br>
-      <code>C++ Embedded • Automação</code>
-    </td>
-    <td align="center" width="33%">
-      <h3>🐳 DevOps & Quality</h3>
-      <p>Entrega contínua com previsibilidade e observabilidade.</p>
-      <code>Docker • CI/CD</code><br>
-      <code>JUnit • Mockito • Linux</code>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="33%" style="padding: 16px;">
+  <h3>🧠 Backend Engineering</h3>
+  <p>Arquitetura, implementação e evolução de serviços confiáveis.</p>
+  <code>Java • Spring Boot</code><br>
+  <code>RESTful APIs • Test-Driven Design</code>
+</td>
+
+<td align="center" width="33%" style="padding: 16px;">
+  <h3>🔌 IoT & Embedded</h3>
+  <p>Integração entre mundo físico e software.</p>
+  <code>Arduino • ESP8266</code><br>
+  <code>C++ Embedded • Automação</code>
+</td>
+
+<td align="center" width="33%" style="padding: 16px;">
+  <h3>🐳 DevOps & Quality</h3>
+  <p>Entrega previsível, ambientes reproduzíveis e qualidade contínua.</p>
+  <code>Docker • CI/CD</code><br>
+  <code>JUnit • Mockito • Linux</code>
+</td>
+</tr>
 </table>
 
----
+<hr />
 
-## 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
-### 💻 Linguagens & Frameworks
+<h3>💻 Linguagens & Frameworks</h3>
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### ⚙️ Infra & Dados
+<h3>⚙️ Infra & Dados</h3>
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
----
-
-## ⚡ GitHub Stats
+<hr />
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=6&theme=radical"/>
-</div>
+  <h3>📫 Vamos construir algo juntos?</h3>
 
----
-
-<div align="center">
-### 📫 Vamos construir algo juntos?
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.sales@dcx.ufpb.br)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
-
+  <a href="mailto:gabriel.sales@dcx.ufpb.br">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
