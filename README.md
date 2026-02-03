@@ -11,22 +11,24 @@
 <tr>
 <td width="60%">
 
-```java
-class GabrielSales {
-    // 📍 João Pessoa, PB
-    
-    Code stack      = { "Java", "Spring Boot", "API REST" };
-    Hardware gear   = { "Arduino", "ESP8266", "IoT Sensors" };
-    
-    Education currentStatus() {
-        return "Graduando em Ciência da Computação @ UFPB";
-    }
+```bash
+gabriel@ufpb:~$ ./whoami.sh
 
-    String mission() {
-        return "Unindo a lógica do Backend com o mundo físico do Hardware.";
-    }
-}
-```
+> [LOADING] Gabriel Sales Profile... [OK]
+> [ROLE]    Programador Full-Stack & IoT [cite: 2]
+> [LOC]     João Pessoa - PB [cite: 5]
+
+> [ACADEMIC_INFO]
+  ├── Graduando Ciência da Computação @ UFPB [cite: 9]
+  └── Técnico em Informática @ IFPB [cite: 10, 11]
+
+> [SYSTEM_CORE]
+  ├── Java / Spring Boot / REST APIs 
+  ├── Arduino / ESP8266 / C++ 
+  └── Docker / Linux / QA & Unit Tests [cite: 14, 20, 22]
+
+gabriel@ufpb:~$ █
+ ```
 
 </td>
 <td width="40%">
