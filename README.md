@@ -1,105 +1,57 @@
-<div align="center">
+# Olá, eu sou o Gabriel Sales! 👋
 
-# ⚡ Gabriel Sales ⚡
-### *Architecting Software & Hacking Hardware*
+### 🚀 Apaixonado por transformar café em código e hardware em soluções inteligentes.
 
-</div>
-
-<br />
-
-<table>
-<tr>
-<td width="60%">
-
-```bash
-gabriel@ufpb:~$ ./whoami.sh
-
-> [LOADING] Gabriel Sales Profile... [OK]
-> [ROLE]    Programador Full-Stack & IoT [cite: 2]
-> [LOC]     João Pessoa - PB [cite: 5]
-
-> [ACADEMIC_INFO]
-  ├── Graduando Ciência da Computação @ UFPB [cite: 9]
-  └── Técnico em Informática @ IFPB [cite: 10, 11]
-
-> [SYSTEM_CORE]
-  ├── Java / Spring Boot / REST APIs 
-  ├── Arduino / ESP8266 / C++ 
-  └── Docker / Linux / QA & Unit Tests [cite: 14, 20, 22]
-
-gabriel@ufpb:~$ █
- ```
-
-</td> <td width="40%"> <div align="center"> <img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Tech GIF"/> </div> </td> </tr> </table>
+Sou graduando em **Ciência da Computação na UFPB** e **Técnico em Informática pelo IFPB**.  
+Atualmente, foco no desenvolvimento **Full Stack** e em projetos de **IoT**, unindo a precisão do software com a versatilidade do hardware.
 
 ---
 
-## 🚀 Módulos de Especialidade
+## 🛠️ No que eu trabalho:
 
-Aqui é onde a mágica acontece. Eu opero em três frentes principais:
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🧠 <br>Backend Engineering</h3>
-      <p>Desenvolvimento de lógicas complexas e APIs seguras.</p>
-      <code>Java & Spring Boot</code><br>
-      <code>RESTful APIs</code><br>
-      <code>Microservices</code>
-    </td>
-    <td align="center" width="33%">
-      <h3>🔌 <br>IoT & Hardware</h3>
-      <p>Conectando o mundo físico ao digital.</p>
-      <code>Arduino & ESP8266</code><br>
-      <code>C++ Embedded</code><br>
-      <code>Automação</code>
-    </td>
-    <td align="center" width="33%">
-      <h3>🐳 <br>DevOps & Quality</h3>
-      <p>Garantia de que "na minha máquina funciona" funcione na nuvem.</p>
-      <code>Docker</code><br>
-      <code>JUnit & Mockito</code><br>
-      <code>Linux Env</code>
-    </td>
-  </tr>
-</table>
+- **Back-end:** Desenvolvimento de APIs RESTful robustas com **Java e Spring Boot**
+- **Frontend:** Criação de interfaces web responsivas utilizando **HTML e CSS**
+- **Qualidade & Testes:** Testes unitários com **JUnit e Mockito** para garantir estabilidade em produção
+- **IoT & Hardware:** Projetos com **Arduino, ESP8266**, sensores e automação
+- **DevOps & Infra:** Uso diário de **Linux**, **Docker** e controle de versão com **Git**
 
 ---
 
-## 🛠️ Arsenal Tecnológico (Tech Stack)
+## 💻 Tech Stack:
 
-### 💻 Linguagens & Frameworks
+### Linguagens e Frameworks
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### ⚙️ Infra, Banco de Dados & Hardware
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+### Banco de Dados & Ferramentas
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ---
 
-## ⚡ GitHub Stats
+## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=6&theme=radical"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=dracula"/>
+</p>
 
 ---
 
-<div align="center">
-  
-### 📫 Vamos construir algo juntos?
-  
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.sales@dcx.ufpb.br)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
+## 📫 Vamos nos conectar?
 
-[cite_start]**[gabriel.sales@dcx.ufpb.br]** [cite: 4]
-  
-</div>
+- 📍 João Pessoa - PB
+- 📧 **Email:** gabriel.sales@dcx.ufpb.br
+- 🔗 **LinkedIn:** https://linkedin.com/in/seu-link
+
+---
+
+*“Sempre em busca de aprender algo novo e documentar o processo.”*
