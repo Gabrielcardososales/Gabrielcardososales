@@ -9,18 +9,15 @@
 
 <table>
 <tr>
-<td width="60%">
-
-## 👨‍💻 Sobre mim
+<td width="60%" style="padding: 24px; vertical-align: top;">
+<h2>👨‍💻 Sobre mim</h2>
 
 Sou **Gabriel Sales**, desenvolvedor curioso sobre como as coisas funcionam por baixo do capô.  
 Graduando em **Ciência da Computação — UFPB** e **Técnico em Informática — IFPB**.  
 Faço a ponte entre software escalável e soluções embarcadas: APIs robustas, testes consistentes e projetos de IoT que entregam valor real.
 
-📍 João Pessoa - PB
-
 </td>
-<td width="40%">
+<td width="27%">
 <div align="center">
   <img src="https://media.tenor.com/Pao5mBkmLroAAAAj/pengu-pudgy.gif" width="100%" alt="Coding GIF"/>
 </div>
@@ -90,13 +87,3 @@ Faço a ponte entre software escalável e soluções embarcadas: APIs robustas, 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
 
 </div>
-
----
-
-### Dicas rápidas pós-colagem
-- Substitua `SEU_USUARIO_GITHUB` e `SEU_LINKEDIN`.
-- Fixe (pin) 3 — 6 repositórios que mostrem: **backend**, **IoT** e **um projeto pessoal completo**.
-- Se tiver projetos que rodem (ex.: Docker-compose + README com demo), destaque-os—recrutadores valorizam código executável.
-- Quer versão em inglês? Faço a tradução mantendo o tom técnico.
-
-Se quiser, já aplico pequenas variações do header (mais técnico / mais criativo) e deixo 2 opções de tema das estatísticas (`dracula` vs `tokyonight`) pra você escolher. Quer que eu gere essas opções agora?
