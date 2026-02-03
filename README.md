@@ -13,13 +13,13 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Gabriel Sales**, um desenvolvedor movido pela curiosidade de saber como as coisas funcionam por baixo do capô.
+SSou **Gabriel Sales**. Meu habitat natural é entre um terminal Linux e uma protoboard.
 
-[cite_start]🎓 **Acadêmico:** Graduando em Ciência da Computação na **UFPB** [cite: 9] [cite_start]e Técnico em Informática pelo **IFPB**[cite: 10, 11].
+[cite_start]🎓 **Roots:** Crio do **IFPB** [cite: 10, 11][cite_start], atualmente expandindo horizontes na **UFPB**[cite: 9].
 
-🚀 **O que eu faço:** Crio ecossistemas completos. Desde o **Back-end robusto** com Java até a ponta física com **IoT e sensores**. Tenho experiência sólida em arquitetar APIs RESTful e garantir que o software seja escalável e testável.
+🚀 **O que eu faço:** Não apenas escrevo código; eu **projeto comportamentos**. [cite_start]Construo a "espinha dorsal" de sistemas robustos com **Java/Spring** [cite: 13] [cite_start]e dou vida às máquinas com **IoT**[cite: 18]. Minha missão é fazer o software escalar na nuvem e o hardware obedecer no mundo físico.
 
-[cite_start]📍 **Base:** João Pessoa - PB [cite: 5]
+[cite_start]📍 **Base de Operações:** João Pessoa - PB [cite: 5]
 
 </td>
 <td width="40%">
