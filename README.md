@@ -11,15 +11,22 @@
 <tr>
 <td width="60%">
 
-## 👨‍💻 Sobre mim
+```java
+class GabrielSales {
+    // 📍 João Pessoa, PB
+    
+    Code stack      = { "Java", "Spring Boot", "API REST" };
+    Hardware gear   = { "Arduino", "ESP8266", "IoT Sensors" };
+    
+    Education currentStatus() {
+        return "Graduando em Ciência da Computação @ UFPB";
+    }
 
-SSou **Gabriel Sales**. Meu habitat natural é entre um terminal Linux e uma protoboard.
-
-[cite_start]🎓 **Roots:** Crio do **IFPB** [cite: 10, 11][cite_start], atualmente expandindo horizontes na **UFPB**[cite: 9].
-
-🚀 **O que eu faço:** Não apenas escrevo código; eu **projeto comportamentos**. [cite_start]Construo a "espinha dorsal" de sistemas robustos com **Java/Spring** [cite: 13] [cite_start]e dou vida às máquinas com **IoT**[cite: 18]. Minha missão é fazer o software escalar na nuvem e o hardware obedecer no mundo físico.
-
-[cite_start]📍 **Base de Operações:** João Pessoa - PB [cite: 5]
+    String mission() {
+        return "Unindo a lógica do Backend com o mundo físico do Hardware.";
+    }
+}
+```
 
 </td>
 <td width="40%">
